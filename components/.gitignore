@@ -1,0 +1,9 @@
+.expo
+.expo-shared
+node_modules
+web-build
+babel.config.js
+package.json
+yarn.lock
+yarn-error.log
+app.json
